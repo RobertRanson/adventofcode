@@ -4,10 +4,10 @@ Solutions for Advent of Code challenges.
 
 ## Progress
 
-- ✅ **Day 01**
-- ✅ **Day 02**
-- ✅ **Day 03**
-- ⬜ **Day 04**
+- ✅ **Day 01** Javascript
+- ✅ **Day 02** Python
+- ✅ **Day 03** GoLang
+- ✅ **Day 04** C++
 - ⬜ **Day 05**
 - ⬜ **Day 06**
 - ⬜ **Day 07**
