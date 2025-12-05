@@ -8,7 +8,7 @@ Solutions for Advent of Code challenges.
 - ✅ **Day 02** Python
 - ✅ **Day 03** GoLang
 - ✅ **Day 04** C++
-- ⬜ **Day 05**
+- ✅ **Day 05** TypeScript
 - ⬜ **Day 06**
 - ⬜ **Day 07**
 - ⬜ **Day 08**
