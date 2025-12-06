@@ -4,15 +4,17 @@ Solutions for Advent of Code challenges.
 
 ## Progress
 
-- ✅ **Day 01** Javascript
-- ✅ **Day 02** Python
-- ✅ **Day 03** GoLang
-- ✅ **Day 04** C++
-- ✅ **Day 05** TypeScript
-- ⬜ **Day 06**
-- ⬜ **Day 07**
-- ⬜ **Day 08**
-- ⬜ **Day 09**
-- ⬜ **Day 10**
-- ⬜ **Day 11**
-- ⬜ **Day 12**
+| Day | Status | Stars | Language |
+|-----|--------|-------|----------|
+| 01  | ✅     | ⭐⭐   | JavaScript |
+| 02  | ✅     | ⭐⭐   | Python |
+| 03  | ✅     | ⭐⭐   | Go |
+| 04  | ✅     | ⭐⭐   | C++ |
+| 05  | ✅     | ⭐⭐   | TypeScript |
+| 06  | ✅     | ⭐     | Rust |
+| 07  | ⬜     |       | |
+| 08  | ⬜     |       | |
+| 09  | ⬜     |       | |
+| 10  | ⬜     |       | |
+| 11  | ⬜     |       | |
+| 12  | ⬜     |       | |
